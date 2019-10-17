@@ -24,11 +24,292 @@
   .header #tickets {
     margin-right: 20px;
   }
-  
-  .hero {
-    margin: 50px 225px;
-  }
 
   .heroimage {
-    
+    width: 1250px;
+    height: 833.825;
+    margin: 50px 135px;
+    position: absolute;
+  }
+
+  .gridirondigest {
+    background-color: #03fc96;
+    width: 350px;
+    height: 325px;
+    position: absolute;
+    margin: 500px 975px
+  }
+
+  .digest {
+    margin: 0px 0px 0px 10px;
+    background-color:  #03fc96;
+    display: inline;
+  }
+
+  .digestbackslash {
+    padding: 15px 0px 0px 25px;
+    background-color: #03fc96;
+    display: inline;
+  }
+
+  .heatingup {
+    background-color: white;
+    width: 350px;
+    height: 275px;
+    position: absolute;
+    margin: 550px 975px;
+  }
+
+  .nflmvp {
+    margin: 15px 0px 0px 15px;
+  }
+
+  .dash {
+    margin: 0px 15px;
+  }
+
+  .headlines1 {
+    margin: 0px 0px 0px 15px;
+  }
+
+  .line1 {
+    margin: 0px 0px 2.5px 0px;
+  }
+
+  .line2 {
+    margin: 0px 0px 2.5px 0px;
+  }
+
+  .line3 {
+    margin: 0px 0px 15px 0px;
+  }
+
+  .author1 {
+    margin: 0px 0px 0px 0px;
+  }
+  
+  .topnewstext {
+    background-color: #03fc96;
+    width: 90px;
+    height: 15px;
+    position: relative;
+    margin: 925px 0px 0px 275px;
+    text-align: center;
+  }
+
+  .firegruden {
+    display: inline;
+    margin: 925px 0px 0px 400px;
+  }
+
+  .verticalslash1 {
+    display: inline;
+    margin: 925px 0px 0px 15px;
+  }
+
+  .lowryextension {
+    display: inline;
+    margin: 925px 0px 0px 20px;
+  }
+
+  .verticalslash2 {
+    display: inline;
+    margin: 925px 0px 0px 25px;
+  }
+
+  .firemorey {
+    display: inline;
+    margin: 925px 0px 0px 30px;
+  }
+
+  .br {
+    margin: 75px 0px 0px 0px;
+    position: absolute;
+    height: 650px;
+    width: 1519.5px;
+    background-color: #f7f74f;
+  }
+
+  .header2 {
+    text-align: center;
+    margin: 50px 0px 0px 0px;
+    background-color: #f7f74f;
+  }
+
+  .percy {
+    width: 700px;
+    margin: 25px 0px 0px 75px;
+    display: inline;
+    position: absolute;
+  }
+
+  .lamar {
+    width: 700px;
+    margin: 25px 0px 0px 800px;
+    display: inline;
+  }
+
+  .jujuhero {
+    width: 1250px;
+    height: 833.825;
+    margin: 800px 0px 0px 135px;
+    position: absolute;
+  }
+
+  .nfl {
+    background-color: #03fc96;
+    width: 350px;
+    height: 325px;
+    position: absolute;
+    margin: 1250px 0px 0px 200px;
+  }
+
+  .nfltext {
+    margin: 0px 0px 0px 10px;
+    background-color:  #03fc96;
+    display: inline;
+  }
+
+  .nflbackslash {
+    padding: 15px 0px 0px 25px;
+    background-color: #03fc96;
+    display: inline;
+  }
+
+  .bad {
+    background-color: white;
+    width: 350px;
+    height: 275px;
+    position: absolute;
+    margin: 1300px 0px 0px 200px;
+  }
+
+  .badjuju {
+    margin: 15px 0px 0px 15px;
+  }
+
+  .jujudash {
+    margin: 0px 15px;
+  }
+
+  .headlines2 {
+    margin: 0px 0px 0px 15px;
+  }
+
+  .paragraph1 {
+    margin: 0px 0px 2.5px 0px;
+  }
+
+  .author2 {
+    margin: 0px 0px 0px 0px;
+  }
+
+  .patrickhero {
+    width: 1250px;
+    height: 833.825;
+    margin: 1750px 0px 0px 135px;
+    position: absolute;
+  }
+
+  .nba {
+    background-color: #03fc96;
+    width: 350px;
+    height: 325px;
+    position: absolute;
+    margin: 2200px 0px 0px 975px;
+  }
+
+  .nbatext {
+    margin: 0px 0px 0px 10px;
+    background-color:  #03fc96;
+    display: inline;
+  }
+
+  .nbabackslash {
+    padding: 15px 0px 0px 25px;
+    background-color: #03fc96;
+    display: inline;
+  }
+
+  .pest {
+    background-color: white;
+    width: 350px;
+    height: 275px;
+    position: absolute;
+    margin: 2250px 0px 0px 975px;
+  }
+
+  .story {
+    margin: 15px 0px 0px 15px;
+  }
+
+  .patrickdash {
+    margin: 0px 15px;
+  }
+
+  .headlines3 {
+    margin: 0px 0px 0px 15px;
+  }
+
+  .paragraph2 {
+    margin: 0px 0px 2.5px 0px;
+  }
+
+  .author3 {
+    margin: 0px 0px 0px 0px;
+  }
+
+  .footer {
+    width: 1519.5px;
+    height: 350px;
+    background-color: black;
+    position: absolute;
+    margin: 2650px 0px 0px 0px;
+  }
+
+  .logo2 {
+    width: 100px;
+    margin: 15px 0px 0px 715px;
+    position: absolute;
+  }
+
+  .facebook {
+    width: 30px;
+    margin: 115px 0px 0px 660px;
+    display: inline;
+    position: absolute;
+  }
+
+  .twitter {
+    width: 30px;
+    margin: 115px 0px 0px 750px;
+    display: inline;
+    position: absolute;
+  }
+
+  .instagram {
+    width: 30px;
+    margin: 115px 0px 0px 835px;
+    display: inline;
+    position: absolute;
+  }
+
+  .footerlinks {
+    position: absolute;
+    color: white;
+    background-color: black;
+    margin: 175px 0px 0px 450px;
+  }
+
+  .footerparagraph {
+    position: absolute;
+    color: white;
+    background-color: black;
+    margin: 230px 0px 0px 425px;
+  }
+
+  .turner {
+    position: absolute;
+    width: 100px;
+    margin: 270px 0px 0px 715px;
   }
